@@ -7,13 +7,13 @@
   <PropertyGroup Label="Package">
     <Version>1.0.0</Version>
     <Authors>DCoats</Authors>
-    <Copyright>Copyright (c) David Coats 2025</Copyright>
-    <Description>Personal, unopinionated, netstandard2.1, XML library.</Description>
+    <Copyright>Copyright © David Coats 2025</Copyright>
+    <Description>Personal, unopinionated, netstandard2.1, XML functions library.</Description>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
-    <RepositoryUrl>https://github.com/davidcoats/D8S.L0016.git</RepositoryUrl>
   </PropertyGroup>
   <ItemGroup>
-    <ProjectReference Include="..\D8S.L0016.F000\D8S.L0016.F000.csproj" />
+    <ProjectReference Include="..\..\..\..\SafetyCone\R5T.T0132\source\R5T.T0132\R5T.T0132.csproj" />
+    <ProjectReference Include="..\..\..\D8S.L0017\source\D8S.L0017.F000\D8S.L0017.F000.csproj" />
   </ItemGroup>
 </Project>
